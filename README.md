@@ -5,4 +5,4 @@
 - Enhanced **UI components** with **Bootstrap** for improved responsiveness and styling.
 
 # 🔗 Project Link
-[Product Registration App](https://hazemkhairat.github.io/ProductRegistrationApp/)
+[Product Registration App](https://hazemkhairat.github.io/product-registration-app/)
